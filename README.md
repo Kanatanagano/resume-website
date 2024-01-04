@@ -25,3 +25,14 @@ graph TD
 ## ドメイン取得方法
 1.No-ipで取得する
 
+## ファイル構成
+- index.html
+- portfolio.html
+- css
+    - style.css
+- JavaScript
+    - func.js
+- JSON
+    - portfolio.json
+- images
+
