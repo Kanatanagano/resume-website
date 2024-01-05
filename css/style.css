@@ -1,0 +1,28 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.img-size {
+  width: 500px;
+  height: auto;
+}
+
+.skill {
+  margin-bottom: 20px;
+}
+
+.skill-title {
+  font-weight: bold;
+  color: blue;
+}
