@@ -16,23 +16,30 @@
   },
   {
     "id": 3,
-    "title": "\"Tetoris\" テトリスゲームができるアプリ",
+    "title": "\"Tetoris\" テトリスゲームができるサイト",
     "summary": "テトリスゲームを作成しました",
     "source": "https://github.com/teamdev-A/work-space",
     "thumbnail": "https://cdn.pixabay.com/photo/2017/05/25/15/08/jogging-2343558_1280.jpg"
   },
   {
     "id": 4,
-    "title": "\"computer-builder\" パソコン構成アプリ",
+    "title": "\"computer-builder\" パソコン構成サイト",
     "summary": "ユーザーがパソコンの構成を選択し、パソコンの構成を管理するためのモバイルアプリケーションです",
     "source": "https://github.com/Kanatanagano/computer-builder",
     "thumbnail": "https://cdn.pixabay.com/photo/2018/02/23/09/21/city-3175068_1280.jpg"
   },
   {
     "id": 5,
-    "title": "\"Library-Application\" 書籍検索アプリ",
+    "title": "\"Library-Application\" 書籍検索サイト",
     "summary": "書籍の検索、書籍の詳細を表示するアプリケーションです",
     "source": "https://github.com/Kanatanagano/Library-Application",
+    "thumbnail": "https://cdn.pixabay.com/photo/2017/09/04/16/58/passport-2714675_1280.jpg"
+  },
+  {
+    "id": 6,
+    "title": "\"Resume-Website\" ポートフォリオサイト",
+    "summary": "自身のポートフォリオサイトです。私が作成したプロジェクトを紹介しています",
+    "source": "https://github.com/Kanatanagano/Resume-Website",
     "thumbnail": "https://cdn.pixabay.com/photo/2017/09/04/16/58/passport-2714675_1280.jpg"
   }
 ]
