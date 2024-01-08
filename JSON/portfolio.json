@@ -11,7 +11,7 @@
     "title": "\"Online Chat Messenger\" チャットルームアプリ",
     "summary": "ユーザーがチャットルームの作成/参加、メッセージの送信/受信を行うことができるプロジェクトです",
     "source": "https://github.com/teamdev-A-backend/online-chat-messenger",
-    "thumbnail": "https://cdn.pixabay.com/photo/2017/10/26/17/40/dollar-2891817_1280.jpg"
+    "thumbnail": "images/online_chat.jpg"
 
   },
   {
@@ -19,27 +19,27 @@
     "title": "\"Tetoris\" テトリスゲームができるサイト",
     "summary": "テトリスゲームを作成しました",
     "source": "https://github.com/teamdev-A/work-space",
-    "thumbnail": "https://cdn.pixabay.com/photo/2017/05/25/15/08/jogging-2343558_1280.jpg"
+    "thumbnail": "images/tetoris.png"
   },
   {
     "id": 4,
     "title": "\"computer-builder\" パソコン構成サイト",
     "summary": "ユーザーがパソコンの構成を選択し、パソコンの構成を管理するためのモバイルアプリケーションです",
     "source": "https://github.com/Kanatanagano/computer-builder",
-    "thumbnail": "https://cdn.pixabay.com/photo/2018/02/23/09/21/city-3175068_1280.jpg"
+    "thumbnail": "images/computer-builder.png"
   },
   {
     "id": 5,
     "title": "\"Library-Application\" 書籍検索サイト",
     "summary": "書籍の検索、書籍の詳細を表示するアプリケーションです",
     "source": "https://github.com/Kanatanagano/Library-Application",
-    "thumbnail": "https://cdn.pixabay.com/photo/2017/09/04/16/58/passport-2714675_1280.jpg"
+    "thumbnail": "images/library_app.png"
   },
   {
     "id": 6,
     "title": "\"Resume-Website\" ポートフォリオサイト",
     "summary": "自身のポートフォリオサイトです。私が作成したプロジェクトを紹介しています",
     "source": "https://github.com/Kanatanagano/Resume-Website",
-    "thumbnail": "https://cdn.pixabay.com/photo/2017/09/04/16/58/passport-2714675_1280.jpg"
+    "thumbnail": "images/resume_website.png"
   }
 ]
