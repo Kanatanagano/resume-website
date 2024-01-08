@@ -1,28 +1,9 @@
-table {
-  width: 100%;
-  border-collapse: collapse;
+.card-img-top {
+  width: 100%;  /* Width of the image will occupy 100% of the card width */
+  height: 200px; /* Height is fixed to 200px */
+  object-fit: cover; /* The image will be resized to cover the entire content box, potentially stretching the image or leaving some space */
 }
-
-th {
-  background-color: #f2f2f2;
-}
-
-th, td {
-  border: 1px solid black;
-  padding: 8px;
-  text-align: left;
-}
-
-.img-size {
-  width: 500px;
-  height: auto;
-}
-
-.skill {
-  margin-bottom: 20px;
-}
-
-.skill-title {
-  font-weight: bold;
-  color: blue;
+.card {
+  height: 500px; /* Height is fixed to 500px */
+  object-fit: cover; /* The card will be resized to cover the entire content box */
 }

@@ -4,11 +4,20 @@ fetch('JSON/portfolio.json')
         const portfolioContainer = document.getElementById('portfolio-container');
         data.forEach(item => {
             const portfolioItem = document.createElement('div');
+            portfolioItem.classList.add('col-sm-4'); 
             portfolioItem.innerHTML = `
-                <h2>${item.title}</h2>
-                <p>${item.summary}</p>
-                <img src="${item.thumbnail}" alt="${item.title}">
-                <a href="${item.source}">詳細を見る</a>
+                <div class="card mb-4 shadow-sm">
+                    <img src="${item.thumbnail}" alt="${item.title}" class="bd-placeholder-img card-img-top">
+                    <div class="card-body text-center">
+                        <h2 class="card-title">${item.title}</h2>
+                        <p class="card-text">${item.summary}</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                <a href="${item.source}" class="btn btn-sm btn-outline-secondary">詳細を見る</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             `;
             portfolioContainer.appendChild(portfolioItem);
         });
