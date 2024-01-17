@@ -3,9 +3,10 @@
 ## 概要
 私のレジェメとポートフォリオが見れるサイトです。
 
-## サイトURL
+## URL
 https://portfolio.kanata99resume.one/
 
+##　デモ
 
 ## アクティビティ図（ざっくり）
 ```mermaid
@@ -33,15 +34,17 @@ graph TD
 1.GoDaddyで取得する
 
 ## ファイル構成
+
 - index.html
 - portfolio.html
 - css
-    - style.css
+  - style.css
 - JavaScript
-    - func.js
+  - func.js
 - JSON
-    - portfolio.json
+  - portfolio.json
 - images
+
 
 ## JavaScript/func.jsのクラスについて
 - [x] JSONファイルから仮データを取得できる
