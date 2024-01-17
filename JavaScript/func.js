@@ -4,7 +4,7 @@ fetch('JSON/portfolio.json')
         const portfolioContainer = document.getElementById('portfolio-container');
         data.forEach(item => {
             const portfolioItem = document.createElement('div');
-            portfolioItem.classList.add('col-sm-4'); 
+            portfolioItem.classList.add('col-sm-6', 'col-md-4', 'col-lg-3'); 
             portfolioItem.innerHTML = `
                 <div class="card mb-4 shadow-sm">
                     <img src="${item.thumbnail}" alt="${item.title}" class="bd-placeholder-img card-img-top">
@@ -13,7 +13,7 @@ fetch('JSON/portfolio.json')
                         <p class="card-text">${item.summary}</p>
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group">
-                                <a href="${item.source}" class="btn btn-sm btn-outline-secondary">詳細を見る</a>
+                                <a href="${item.source}" class="btn btn-sm btn-outline-secondary">code</a>
                             </div>
                         </div>
                     </div>
