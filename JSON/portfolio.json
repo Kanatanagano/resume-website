@@ -37,9 +37,9 @@
   },
   {
     "id": 6,
-    "title": "\"File-manipulator-Program\" ファイル操作プログラム",
+    "title": "\"Markdown-to-HTML-converter\" ファイル変換プログラム",
     "summary": "コマンドを入れることでファイルを操作するプロジェクトです",
-    "source": "https://github.com/Kanatanagano/File-manipulator-Program",
-    "thumbnail": "https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_1280.jpg"
+    "source": "https://github.com/Kanatanagano/Markdown-to-HTML-converter",
+    "thumbnail": "images/markdown.png"
   }
 ]
