@@ -7,7 +7,14 @@
 https://portfolio.kanata99resume.one/
 
 ## デモ
-![Resume_website-GoogleChrome2024-01-1803-08-14-ezgif com-video-to-gif-converter](https://github.com/Kanatanagano/weekly-report/assets/112442087/368a618c-2418-4cb3-9a24-b8539c2b93fd)
+### レジェメページ
+https://github.com/Kanatanagano/resume-website/assets/112442087/ee9e7509-2281-4c6d-95c2-77191b47037b
+
+
+### ポートフォリオページ
+https://github.com/Kanatanagano/resume-website/assets/112442087/235a8b20-e6e3-416c-b144-b36ba930ae58
+
+
 
 ## アクティビティ図（ざっくり）
 ```mermaid
